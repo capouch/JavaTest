@@ -2,7 +2,8 @@
 public class JavaTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Simple print statement for testing
+		System.out.println("My dig has freas");
 
 	}
 
